@@ -1,3 +1,3 @@
-// function phrase(word: string) {
-//     console.log(word);
-// }
+function phrase(word: string) {
+    console.log(word);
+}

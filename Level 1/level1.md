@@ -16,4 +16,12 @@ function speak(lessVagueVariable: string){
 }
 ```
 
+There are a few main types you can assign to things (the same as js) including 
+
+```typescript
+boolean //true or false declaration
+number // self explanatory
+string // a string of letters numbers and characters
+```
+
 Try it for yourself. Head over to `level1.ts` and see if you can write a console.log function in typescript!
